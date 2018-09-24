@@ -1,0 +1,27 @@
+_repo: Silanus-the-Christian_56843
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Abbott, Edwin Abbott
+    aliases:
+    - A Square
+    - Abbott, Edwin A. (Edwin Abbott)
+    - Abbott, E. A. (Edwin Abbott)
+    birthdate: 1838
+    deathdate: 1926
+    gutenberg_agent_id: '64'
+    url: http://www.gutenberg.org/2009/agents/64
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Abbott_Abbott
+description: ''
+gutenberg_issued: '2018-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56843'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Silanus the Christian
+url: http://www.gutenberg.org/ebooks/56843
